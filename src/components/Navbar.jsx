@@ -91,7 +91,7 @@ export default function Navbar() {
           onClick={(e) => handleNavClick(e, "home")}
           className="relative group text-xl font-bold tracking-widest text-slate-900 dark:text-white transition duration-300"
         >
-          <span className="text-neon-cyan">A</span>KASH
+          <span className="text-neon-cyan">A</span>KASH'S
           <span className="absolute -bottom-1 left-0 w-0 h-[2px] bg-gradient-to-r from-neon-cyan to-neon-purple transition-all duration-300 group-hover:w-full" />
         </a>
 
