@@ -52,8 +52,8 @@ const projectsList = [
     title: "Portfolio Website",
     description: "A dark futuristic premium portfolio built to showcase creative work, featuring smooth 3D tilt effects, magnetic buttons, custom canvas particles, and scroll-triggered animations.",
     tags: ["Next.js", "Framer Motion", "Tailwind CSS", "JavaScript"],
-    github: "#",
-    live: "#",
+    github: "https://github.com/akashdurutkar203/Ak-portfolio",
+    live: "https://ak-old-portfolio.vercel.app/",
     mockup: (
       <div className="w-full h-full bg-cyber-bg/60 rounded-t-xl border-b border-cyber-border p-4 flex flex-col justify-between relative overflow-hidden group-hover:bg-cyber-gray/40 transition-colors duration-300">
         <div className="flex justify-between items-center">
