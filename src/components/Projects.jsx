@@ -9,7 +9,7 @@ const projectsList = [
     title: "News Website",
     description: "A dynamic, high-performance news website featuring categorizations, search filters, and an interactive reader mode. Built with React.js, responsive layouts, and Tailwind CSS.",
     tags: ["React.js", "Tailwind CSS", "GNews API"],
-    github: "https://github.com/akashdurutkar203/akash-portfolio",
+    github: "https://github.com/akashdurutkar203/akash-news",
     live: "https://akash-news.vercel.app/",
     // Code-based vector mockup
     mockup: (
