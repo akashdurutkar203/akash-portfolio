@@ -80,8 +80,8 @@ const projectsList = [
     title: "Attendance Management System",
     description: "A comprehensive attendance management application featuring real-time check-in, dashboard analytics, visual progress rings, and structured databases for administration.",
     tags: ["React", "Next.js", "Chart.js", "Tailwind CSS"],
-    github: "#",
-    live: "#",
+    github: "https://github.com/akashdurutkar203/kcem-attendance-management",
+    live: "https://kcem-management.vercel.app/",
     mockup: (
       <div className="w-full h-full bg-cyber-bg/60 rounded-t-xl border-b border-cyber-border p-4 flex flex-col gap-3 relative overflow-hidden group-hover:bg-cyber-gray/40 transition-colors duration-300">
         <div className="flex justify-between items-center pb-2 border-b border-cyber-border/40">
